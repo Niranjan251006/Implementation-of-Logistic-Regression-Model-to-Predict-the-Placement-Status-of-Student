@@ -82,7 +82,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![267753589-cba641d7-4b64-474a-9df3-f8047b4ddc21](https://github.com/user-attachments/assets/5d9d747f-3a63-43ed-beb2-13fecac183c3)
 ## SALARY DATA:
 ![267753686-b69592e3-fb46-446d-87a4-60e8dabf45a1](https://github.com/user-attachments/assets/c9b58d02-674e-44b8-b72b-7d610bddada1)
-![267753686-b69592e3-fb46-446d-87a4-60e8dabf45a1](https://github.com/user-attachments/assets/5e7fc657-a931-4293-bdcc-09b80c122bfd)
+
 ## CHECKING NULL() FUNCTION:
 ![267753782-196a08f0-0571-40f2-bfdf-b6e1d2b4fa8f](https://github.com/user-attachments/assets/700b4ff1-8fe4-4eb5-9e45-4d500dde902b)
 ## DUPLICATE DATA
