@@ -85,7 +85,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![267753686-b69592e3-fb46-446d-87a4-60e8dabf45a1](https://github.com/user-attachments/assets/5e7fc657-a931-4293-bdcc-09b80c122bfd)
 ## CHECKING NULL() FUNCTION:
 ![267753782-196a08f0-0571-40f2-bfdf-b6e1d2b4fa8f](https://github.com/user-attachments/assets/700b4ff1-8fe4-4eb5-9e45-4d500dde902b)
-##DUPLICATE DATA
+## DUPLICATE DATA
 ![267753891-3efb2a8c-6c60-4466-99b2-2c3c7b7a39b4](https://github.com/user-attachments/assets/7ed55b95-6e59-4ac2-9cb8-ee97b1c18486)
 ## PRINT DATA
 ![267753963-37d05f23-2187-49d2-a871-7dbf5d7baca9](https://github.com/user-attachments/assets/b58bd481-af09-428f-b8d4-9bf61a88ffab)
